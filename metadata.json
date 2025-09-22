@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aplikasi Perjalanan Dinas",
+  "description": "Aplikasi web untuk mengelola perjalanan dinas, terintegrasi dengan Google Sheets untuk penyimpanan data dan Google Calendar untuk melihat jadwal acara.",
+  "requestFramePermissions": []
+}
